@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lemacgyverdubricolage.fr/sitemap.xml
